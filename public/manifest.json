@@ -1,6 +1,6 @@
 {
-    "name": "Gify App",
-    "short_name": "",
+    "short_name": "RGApp",
+    "name": "Rans Gify App",
     "icons": [
         {
             "src": "favicon.ico",

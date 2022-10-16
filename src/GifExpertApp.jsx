@@ -11,7 +11,9 @@ export const GifExpertApp = () => {
 
   return (
     <>
-      <h1 className="title">Gify App</h1>
+      <h1>Rans Gify App</h1>
+
+      <h2>Search your gif:</h2>
 
       <AddCategory onNewCategory={(value) => onAddCategory(value)} />
 
